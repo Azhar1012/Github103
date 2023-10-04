@@ -30,6 +30,6 @@ public class FactorialCalculator {
     }
 }
 
-//newly created function
-// This is final above related document.
+//This will get expired
+// This is the project related update.
 // Make a note on Methods added newly.

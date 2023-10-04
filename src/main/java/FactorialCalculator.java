@@ -36,4 +36,7 @@ public class FactorialCalculator {
 // Make a note on Methods added newly.
 //1st commit
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e6dd02dad2c6cdb391b1cd920b41a5f3cf6f72bc

@@ -31,3 +31,4 @@ public class FactorialCalculator {
 }
 
 //newly created function
+// Make a note on methods.
